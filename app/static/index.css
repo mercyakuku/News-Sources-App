@@ -1,11 +1,56 @@
+.main {
+  flex: 1 1 0;
+  display: flex;
+}
+.container-fluid {
+display: flex;
+}
+.col-9 {
+overflow-y: auto;
+height: 90vh; /* NEW */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* .main {
     flex: 1 1 0;
     display: flex;
 }
 .container-fluid {
   display: flex;
+} 
+
+/* img{
+height: 200px;
+width: 200px;
 }
-.col-9 {
-  overflow-y: auto;
-  height: 90vh;  
-} */
+.card{
+  height: 600px;
+  width: 1000px;
+} 
+#row1{
+
+ height: 500px;
+
+}
+#nav{
+  margin-top: 40%;
+}
+#divmain{
+  margin-top: 10%;
+}
+#col1{
+  margin-top: 10%;
+}*/
