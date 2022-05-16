@@ -17,3 +17,4 @@ class ArticleTest(unittest.TestCase):
         Test to check creation of new article instance
         '''
         self.assertTrue(isinstance(self.new_article,Article))
+    
