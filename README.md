@@ -6,7 +6,7 @@
 This is a web application suited best for people who always miss the news and they are very frustrated since they can't keep up with current affairs. This is an application that will help them list and preview news articles from various sources. The application consumes news from the [News API](https://newsapi.org/)
 
 ## Live link
-
+https://news-bulletins.herokuapp.com/
 
 ## User Story
 
